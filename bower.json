@@ -1,0 +1,34 @@
+{
+  "name": "ng-bootstrap-grid",
+  "version": "1.1.1",
+  "homepage": "https://github.com/Coralma/ng-bootstrap-grid",
+  "authors": [
+    "coral.ma <maqujun@hotmail.com>"
+  ],
+  "description": "AngularJs grid controller with bootstrap style.",
+  "keywords": [
+    "angularJs",
+    "grid",
+    "table",
+    "category",
+    "pagination",
+    "tree"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-animate": "~1.4.5",
+    "angular-once": "~0.1.9",
+    "angular-sanitize": "~1.4.1",
+    "bootstrap": "~3.3.4",
+    "lodash": "~3.9.3",
+    "ng-context-menu": "~1.0.1"
+  }
+}
